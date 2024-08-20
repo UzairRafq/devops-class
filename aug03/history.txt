@@ -1,0 +1,26 @@
+ 326  clear
+  327  git clone git@github.com:UzairRafq/devops-class.git
+  328  sudo rm -fr devops-class/
+  329  cd ..
+  330  cd ~
+  331  ll
+  332  git clone git@github.com:UzairRafq/devops-class.git
+  333  ll
+  334  cd devops-class
+  335  ll
+  336  mkdir aug03
+  337  ll
+  338  cat .git
+  339  cat .git/confiq
+  340  cat .git/config
+  341  ls lha
+  342  ls -lha
+  343  git status
+  344  ll
+  345  ls -lah
+  346  touch uzair.txt
+  347  git status
+  348  sudo rm -f uzair.txt
+  349  ll
+  350  git status
+ 351  cd aug03/
