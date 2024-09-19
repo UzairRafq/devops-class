@@ -1,0 +1,345 @@
+    1  dir
+    2  rm dir
+    3  cat /etc/os-release
+    4  ll
+    5  cd ..
+    6  ll
+    7  vim
+    8  vim vagrantfile
+    9  mkdir uzair
+   10  exit
+   11  ll
+   12  clear
+   13  ff
+   14  d
+   15  clear
+   16  whoami
+   17  sudo su
+   18  pwd
+   19  ls
+   20  ls -l
+   21  ls -la
+   22  ls -lah
+   23  cd 1/
+   24  cd 2/
+   25  pwd
+   26  ls -l
+   27  cd 4
+   28  ls -l
+   29  ls -lh
+   30  ls -l
+   31  ls -lah
+   32  ls -ltr
+   33  cd ~
+   34  pwd
+   35  cd -
+   36  pwd
+   37  cd ~
+   38  id
+   39  uname
+   40  uname -a
+   41  su - root
+   42  sga
+   43  a
+   44  sudu su
+   45  sudo su
+   46  ls -l .
+   47  cd 1/
+   48  ls -lah
+   49  cd 3.txt
+   50  cat cp-2.txt
+   51  vim 3.txt
+   52  cat 3.txt
+   53  ls -lah
+   54  cp. 3.txt
+   55  cp 3.txt 3.txt.copy
+   56  ls -l
+   57  mv 3.txt 3.txt.copy.1
+   58  ls -l
+   59  ls -lah
+   60  mkdir 5
+   61  ls -lah
+   62  date
+   63  ls -lah
+   64  rm 3.txt.copy.1
+   65  ls -lah
+   66  rm -v 3.txt.copy
+   67  ls-l
+   68  ls -l
+   69  rm 5/
+   70  rm -frv 5/
+   71  head
+   72  ssh -i
+   73  whoami
+   74  sudo su
+   75  cat /etc/os-realease
+   76  cat /etc/os-release
+   77  git --version
+   78  apt-get or apt
+   79  sudo apt-get update
+   80  sudo apt-get install git
+   81  exit
+   82  sudo su
+   83  sudo apt-get install vim
+   84  ll /home/
+   85  useradd--l
+   86  useradd--d
+   87  useradd-d
+   88  mkdir /home/dev1
+   89  sudo mkdir /home/dev1
+   90  sudo useradd -d /home/dev1 dev1
+   91  ll /home/
+   92  sudo chown -R dev1:dev1 dev
+   93  cat /etc/group
+   94  sudo usermod -aG dev1 asad
+   95  ll /home
+   96  sudo chmod -R -744 /home/dev1
+   97  ll /home/
+   98  sudo chmod -R 754 /home/dev1
+   99  ll /home/
+  100  sudo chmod +x /home/dev1
+  101  ll /home/
+  102  sudo chmod -x /home/dev1
+  103  ll /home/
+  104  sudo chmod -R u+rwx,go+rw /home/dev1
+  105  ll /home/
+  106  pwd
+  107  sudo vim install.sh
+  108  ll /home/
+  109  su -dev1
+  110  sudi chown -R dev1
+  111  su - dev1
+  112  exit
+  113  su -dev1
+  114  apt install.sh
+  115  pwd
+  116  cd dev1
+  117  sudo cd /home/dev1
+  118  sudo su
+  119  ll /home/
+  120  pwd
+  121  df -h
+  122  df -ht
+  123  df --ht
+  124  cal
+  125  bc
+  126  sudo du -sh *
+  127  ll
+  128  cp lib/ lib1
+  129  du -sh tar
+  130  history | grep tar
+  131  ll
+  132  ll lib.*
+  133  ll tar/
+  134  cal
+  135  echo
+  136  ll
+  137  cat history.txt
+  138  cd uzair
+  139  echo hisory
+  140  git status
+  141  exit
+  142  ssh -i .ssh/asad-m1_id_rsa ubuntu@54.75.20.246
+  143  sudo apt-get update
+  144  curl
+  145  ca certificate 
+  146  sudo apt-get install ca-certificate curl
+  147  docker
+  148  sudo get-apt install docker
+  149  sudo apt install apache2
+  150  sudo systemctl status apache2.server
+  151  ss -an | grep:80
+  152  cel
+  153  cal
+  154  ll
+  155  ls -lah
+  156  dpkg -l | grep mysql
+  157  history
+  158  ps
+  159  exit
+  160  sudo apt update
+  161  mysql
+  162  mysql --version
+  163  mkdir devops-class
+  164  cd devops-class
+  165  exit
+  166  history
+  167  awk '{print $5}'
+  168  ll apache2/
+  169  cd /etc/apache2/
+  170  cd ..
+  171  ll apache2/
+  172  cd apache2/
+  173  ll | awk '{print $5}'
+  174  pwd
+  175  exit
+  176  --home-dir HOME_DIR
+  177  --help
+  178  sudo useradd -m -d dev1
+  179  sudo useradd -d /home/dev1 dev1
+  180  ll /home/dev1
+  181  cd dev1
+  182  ll
+  183  mkdir /home/dev1
+  184  cd /home/dev1
+  185  sudo mkdir /home/dev1
+  186  sudo cd /home/dev1
+  187  sudo etc/home/dev1
+  188  sudo useradd -d /home/dev1 dev1
+  189  cd dev1
+  190  ls -lah
+  191  sudo chown -R 
+  192  sudo chown -R dev1:dev1 dev
+  193  clear
+  194  sudo su
+  195  whoami
+  196  pwd
+  197  ls
+  198  ls -l
+  199  ls -lah
+  200  cd uzair
+  201  ls
+  202  cd uzair/
+  203  cd 1/
+  204  ls
+  205  cd 2/
+  206  mv txt
+  207  pwd
+  208  ls -l
+  209  ls -ltr
+  210  pwd home
+  211  history
+  212  rm
+  213  rm 1
+  214  dir 1
+  215  cat/etc/os-release
+  216  cd 1.txt
+  217  cat 1,txt
+  218  vim 3,txt
+  219  cd~
+  220  pwd
+  221  cd -
+  222  cd~
+  223  id
+  224  uname
+  225  uname -a
+  226  username
+  227  su -root
+  228  su - root
+  229  sga
+  230  a
+  231  sudo su
+  232  cat 1.txt
+  233  cat uzair
+  234  cd 1/
+  235  ls -lah
+  236  cat viminfo
+  237  cd viminfo/
+  238  cat 3.txt
+  239  touch 1
+  240  cd 1
+  241  cat 1
+  242  cd uzair
+  243  touch 1.txt
+  244  cat 1.txt
+  245  ls -lah
+  246  rm 3.txt
+  247  sudo apt-get install vim
+  248  vim 1,txt
+  249  cp 1.txt
+  250  cp 1.txt 1.txt
+  251  cp 1.txt 1.txt.copy
+  252  ls -l
+  253  mv 1.txt 1.txt.copy
+  254  ls -l
+  255  rm 1,txt
+  256  ls -l
+  257  rm 3,txt
+  258  ls -l
+  259  rm -fr uzair/
+  260  ls -lah
+  261  pwd
+  262  cd vagrant
+  263  rm -frv uzair/
+  264  ls -ltr
+  265  ll
+  266  ls -la
+  267  rm -frv 1.txt.copy
+  268  ll
+  269  cd uzair
+  270  mv uzair
+  271  ls -lah
+  272  mkdir uzair
+  273  ls -lah
+  274  ssh -i
+  275  whoami
+  276  cd /var/log
+  277  ls -lah
+  278  sudo less messeges
+  279  sudo less messages
+  280  whoami
+  281  pwd
+  282  sudo more messages
+  283  whoami
+  284  exit
+  285  ls -lah
+  286  rm -v 1
+  287  ls -lah
+  288  cd uzair
+  289  touch 1.txt
+  290  ls -lah
+  291  cd 1.txt
+  292  cat 1.txt
+  293  ls -lah
+  294  exit
+  295  ll
+  296  ip a a
+  297  ip a s
+  298  systemctl
+  299  apache 2
+  300  ll
+  301  service apache2 status
+  302  history
+  303  git
+  304  ll
+  305  cd devops-class
+  306  ll
+  307  ls -lah
+  308  cd ..
+  309  history | grep clone
+  310  ls -lah
+  311  mkdir project
+  312  cd projet
+  313  cd project
+  314  ls -lah
+  315  git
+  316  git status
+  317  cd ..
+  318  cd project
+  319  git mv abc.txt xyz.txt
+  320  ls -lha
+  321  vim uzair.txt
+  322  git mv uzair.txt abcd.txt
+  323  git status
+  324  git add .
+  325  git grep --help
+  326  git show
+  327  cd ..
+  328  devops-class
+  329  cd devops-class
+  330  git show
+  331  git log
+  332  git branch
+  333  git pull
+  334  git push
+  335  git fetch
+  336  exit
+  337  ll
+  338  git status
+  339  history
+  340  git
+  341  cd devops-class
+  342  ll
+  343  mkdir sep01
+  344  cd sep01
+  345  history >> history.txt
